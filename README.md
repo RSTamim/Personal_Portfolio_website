@@ -1,3 +1,8 @@
+### Project Screen Short (HOME)
+![screencapture-localhost-3000-2022-10-28-03_32_08](https://user-images.githubusercontent.com/59114274/198402670-3fe58705-b57d-486b-8943-52a360b25246.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
