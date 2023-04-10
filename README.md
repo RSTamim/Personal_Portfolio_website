@@ -3,7 +3,7 @@
 
 ### Project Screen Short (About)
 ![About](https://user-images.githubusercontent.com/59114274/198402945-9d800517-4d4e-4317-9aa9-caba70bd7d16.png)
-![About](https://user-images.githubusercontent.com/59114274/198402945-9d800517-4d4e-4317-9aa9-.)
+![About](https://user-images.githubusercontent.com/59114274/198402945-9d800517-4d4e-4317--.)
 
 
 
