@@ -2,7 +2,7 @@
 ![screencapture-localhost-3000-2022-10-28-03_32_08](https://user-images.githubusercontent.com/59114274/198402670-3fe58705-b57d-486b-8943-52a360b25246.png)
 
 ### Project Screen Short (About)
-![About](https://user-images.githubusercontent.com/59114274/198402945-9d800517-4d4e-4317-9aa9-caba70bd7d16.png)........
+![About](https://user-images.githubusercontent.com/59114274/198402945-9d800517-4d4e-4317-9aa9-caba70bd7d16.png).......
 
 
 ### Project Screen Short (Project)
